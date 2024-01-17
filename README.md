@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brandon Tam
 ===================================================================================================================================
 
-Rust Developer (Wannabe)
+Developer learning Rust
 ------------------------
 
 I have worked at a web agency and currently work in a scientific research company.
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [tam.brandon29@gmail.com](mailto:tam.brandon29@gmail.com)
-* 🧠  I'm learning Rust
+* 🧠  I am building GUIs in Rust
 
 ### Skills
 
